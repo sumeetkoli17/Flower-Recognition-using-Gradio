@@ -1,0 +1,6 @@
+numpy 
+matplotlib
+tensorflow 
+gradio
+pillow
+#-e .
