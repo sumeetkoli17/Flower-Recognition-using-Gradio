@@ -59,7 +59,7 @@ This project uses several libraries for data manipulation, model building, train
 1. **Clone the Repository**:
    - Clone this repository to your local machine using the following command:
      ```
-     git clone https://github.com/your-username/flower-recognition-using-gradio.git
+     git clone https://github.com/sumeetkoli17/Flower-Recognition-using-Gradio.git
      ```
 
 2. **Install Dependencies**:
